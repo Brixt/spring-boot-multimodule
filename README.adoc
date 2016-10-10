@@ -1,5 +1,7 @@
 = Spring Boot Multimodule project example
 
+https://github.com/DISID/disid-proofs/tree/master/spring-boot-multimodule
+
 Proofs of concept that shows how to generate Spring Boot multimodule
 applications.
 
